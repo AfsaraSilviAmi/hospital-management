@@ -1,0 +1,65 @@
+-- Disable foreign key checks to avoid conflicts
+SET FOREIGN_KEY_CHECKS = 0;
+
+-- Drop existing tables in proper order
+DROP TABLE IF EXISTS payments;
+DROP TABLE IF EXISTS appointments;
+DROP TABLE IF EXISTS patients;
+DROP TABLE IF EXISTS users;
+
+-- Re-enable foreign key checks
+SET FOREIGN_KEY_CHECKS = 1;
+
+-- Table: users (optional for portal login if needed)
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Table: patients
+CREATE TABLE patients (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    phone VARCHAR(15) NOT NULL,
+    email VARCHAR(100),
+    UNIQUE(email, phone),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Table: appointments
+CREATE TABLE appointments (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    doctor_name VARCHAR(100) NOT NULL,
+    appointment_date DATE NOT NULL,
+    status ENUM('Pending', 'Paid') DEFAULT 'Pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES patients(id) ON DELETE CASCADE
+);
+
+-- Table: payments
+CREATE TABLE payments (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    appointment_id INT NOT NULL,
+    amount DECIMAL(10,2) NOT NULL,
+    payment_method VARCHAR(50) DEFAULT '',
+    status ENUM('Pending','Paid') DEFAULT 'Pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (appointment_id) REFERENCES appointments(id) ON DELETE CASCADE
+);
+CREATE TABLE admins (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) UNIQUE,
+    password VARCHAR(255)
+);
+INSERT INTO admins (username, password)
+VALUES ('admin', MD5('admin123'));
+CREATE TABLE doctors (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    specialty VARCHAR(100),
+    fee DECIMAL(10,2),
+    available_days VARCHAR(255)
+);
