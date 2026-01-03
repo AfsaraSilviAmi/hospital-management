@@ -1,0 +1,198 @@
+{
+  "general": [
+    {
+      "answer": "Our platform offers appointment booking, virtual consultations, and 24/7 health chatbot assistance.",
+      "keywords": ["services", "healthcare", "platform", "features", "about"]
+    },
+    {
+      "answer": "Greetings! If you need any help, you can ask me. I can even tell you which doctor to appoint based on your symptoms.",
+      "keywords": ["hello", "hi", "how are you", "hey", "good morning", "good afternoon"]
+    },
+    {
+      "answer": "No, we don't have mobile apps available right now.",
+      "keywords": ["mobile", "app", "android", "ios", "application"]
+    },
+    {
+      "answer": "All health records are encrypted and stored securely following HIPAA compliance.",
+      "keywords": ["security", "records", "hipaa", "encryption", "safe"]
+    },
+    {
+      "answer": "We support various payment options. To pay, go to your payment section.",
+      "keywords": ["payment", "billing", "upi", "wallet", "pay"]
+    },
+    {
+      "answer": "You can chat with our AI health assistant anytime for help with symptoms and appointments.",
+      "keywords": ["chatbot", "ai", "assistant", "symptom checker"]
+    },
+    {
+      "answer": "You can email us at ar@gmail.com.",
+      "keywords": ["email", "contact", "mail"]
+    }
+  ],
+  "appointments": [
+    {
+      "answer": "Go to the Book Appointment Page, choose your preferred doctor, and submit it to get an SMS as proof of your appointment.",
+      "keywords": ["appointment", "book", "doctor", "schedule", "see doctor", "visit doctor"]
+    },
+    {
+      "answer": "Yes, you can cancel or reschedule your appointment by calling the hospital number.",
+      "keywords": ["cancel", "reschedule", "appointment", "schedule", "change appointment"]
+    },
+    {
+      "answer": "Yes, your past consultations can be viewed under your medical history in your profile.",
+      "keywords": ["consultation", "history", "records", "profile", "previous visit"]
+    }
+  ],
+  "payments": [
+    {
+      "answer": "We accept most major health insurance policies. Contact our billing desk for details.",
+      "keywords": ["insurance", "policy", "coverage", "health plan", "insurer"]
+    },
+    {
+      "answer": "For insurance claims, visit our Billing Department with your documents.",
+      "keywords": ["insurance", "claim", "form", "reimbursement"]
+    }
+  ],
+  "diagnostics": [
+    {
+      "answer": "Lab test results will be available in your dashboard once the diagnostics center uploads them.",
+      "keywords": ["lab test", "results", "diagnostics", "dashboard", "test report"]
+    },
+    {
+      "answer": "COVID-19 testing is available with prior booking. Please bring a valid ID.",
+      "keywords": ["covid", "test", "rtpcr", "covid19", "coronavirus"]
+    },
+    {
+      "answer": "COVID-19 vaccines are available on appointment as per government guidelines.",
+      "keywords": ["covid", "vaccine", "shot", "vaccination", "immunization"]
+    },
+    {
+      "answer": "You can book blood tests online or through the diagnostic center.",
+      "keywords": ["blood", "test", "diagnostic", "lab", "blood test"]
+    }
+  ],
+  "symptoms": [
+    {
+      "answer": "You may be experiencing viral fever. You can take acetaminophen or ibuprofen. Please consult our Dr. A, General Physician, in the Book Appointment Section.",
+      "keywords": ["fever", "viral", "sick", "headache", "temperature", "flu"]
+    },
+    {
+      "answer": "This may be a cardiac emergency. Please contact our hospital (+01234567890) and consult our Cardiologist immediately.",
+      "keywords": ["chest pain", "breathless", "heart", "attack", "cardiac", "pressure"]
+    },
+    {
+      "answer": "You might have a gastrointestinal issue. Please consult a Gastroenterologist in the Book Appointment Section.",
+      "keywords": ["vomiting", "abdominal", "pain", "burns", "burn", "stomach", "nausea"]
+    },
+    {
+      "answer": "You should consult a Dermatologist for skin-related issues in the Book Appointment Section.",
+      "keywords": ["rash", "itching", "skin", "allergy", "redness"]
+    },
+    {
+      "answer": "You may have a urinary infection. Consult a Urologist for evaluation in the Book Appointment Section.",
+      "keywords": ["urination", "infection", "urinary", "bladder", "pee pain"]
+    },
+    {
+      "answer": "Our Psychiatry and Counseling departments offer confidential mental health support.",
+      "keywords": ["mental", "health", "counseling", "therapy", "stress", "anxiety", "depression"]
+    },
+    {
+      "answer": "Frequent headaches or migraines? Consult a Neurologist for diagnosis.",
+      "keywords": ["headache", "migraine", "neurologist", "pain", "head"]
+    },
+    {
+      "answer": "You may have allergic rhinitis. An ENT or Allergy Specialist can help.",
+      "keywords": ["allergy", "sneezing", "cold", "runny nose", "cough"]
+    }
+  ],
+  "specialists": [
+    {
+      "answer": "Book a consultation with our Cardiologist if you're experiencing heart-related symptoms.",
+      "keywords": ["cardiology", "heart", "attack", "chest pain"]
+    },
+    {
+      "answer": "Our Gynecology department handles reproductive and menstrual health.",
+      "keywords": ["gynecology", "menstrual", "cycle", "pregnancy", "prenatal"]
+    },
+    {
+      "answer": "Consult an Ophthalmologist for any vision or eye discomfort.",
+      "keywords": ["eye", "redness", "blurry", "vision", "sight"]
+    },
+    {
+      "answer": "Our Urology department offers treatment for bladder, kidney, and prostate conditions.",
+      "keywords": ["urology", "bladder", "prostate", "kidney"]
+    },
+    {
+      "answer": "Our ENT specialists handle all ear, nose, and throat-related conditions.",
+      "keywords": ["ent", "ear", "nose", "throat", "hearing"]
+    },
+    {
+      "answer": "Orthopedic specialists are available for spine and joint-related issues.",
+      "keywords": ["back", "back pain", "orthopedic", "bone", "joint", "fracture"]
+    },
+    {
+      "answer": "Book a physiotherapy session for injury recovery or chronic pain relief.",
+      "keywords": ["physiotherapy", "rehab", "exercise", "therapy"]
+    },
+    {
+      "answer": "Toothache or cavity? Visit our Dental department for evaluation and treatment.",
+      "keywords": ["dentist", "tooth", "pain", "cavity", "dental"]
+    },
+    {
+      "answer": "Our Dietitians provide customized diet plans for weight management.",
+      "keywords": ["diet", "nutrition", "weight", "food", "meal plan"]
+    },
+    {
+      "answer": "Book a consultation with our Obesity Clinic for personalized treatment.",
+      "keywords": ["obesity", "weight", "loss", "overweight"]
+    },
+    {
+      "answer": "Prenatal checkups can be booked with our Gynecology department.",
+      "keywords": ["pregnancy", "prenatal", "checkup", "ultrasound", "scan"]
+    }
+  ],
+  "emergency": [
+    {
+      "answer": "For emergencies, call our 24/7 ambulance service at +01234567890.",
+      "keywords": ["emergency", "ambulance", "help", "urgent", "accident"]
+    },
+    {
+      "answer": "Please contact our emergency number +1226762749.",
+      "keywords": ["stroke", "heart attack", "emergency"]
+    }
+  ],
+  "hospital_info": [
+    {
+      "answer": "We are located at 123 Health Avenue, MedCity. Full map available on the Contact page.",
+      "keywords": ["hospital", "location", "address", "map"]
+    },
+    {
+      "answer": "Visitors are allowed between 4 PM and 7 PM. Max 2 visitors per patient.",
+      "keywords": ["visiting", "hours", "timing", "visitors"]
+    },
+    {
+      "answer": "Our hospital operates 24/7. OPD hours are 9 AM to 6 PM, Mon–Sat.",
+      "keywords": ["hospital", "timings", "hours", "open", "close"]
+    },
+    {
+      "answer": "We offer comprehensive health checkup packages for all age groups.",
+      "keywords": ["checkup", "health", "package", "medical check"]
+    },
+    {
+      "answer": "Access your lab reports by logging into your patient portal account.",
+      "keywords": ["lab", "reports", "online", "results"]
+    }
+  ],
+  "pharmacy": [
+    {
+      "answer": "Our in-house pharmacy is open 24/7 for all your medicine needs.",
+      "keywords": ["pharmacy", "medicines", "store", "drugs", "medicine"]
+    }
+  ],
+  "feedback": [
+    {
+      "answer": "You can leave feedback at the reception or through the Feedback section online.",
+      "keywords": ["feedback", "complaint", "suggestion", "review"]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+[2025-07-23 23:26:27] To: 1111111111 | Message: Payment of ₹500 for Dr. Anjali Verma was successful. Thank you!
+[2025-07-23 23:33:50] To: 1111111111 | Message: Payment of ₹500 for Dr. Anjali Verma was successful. Thank you!
+[2025-07-28 23:37:06] To: 11111111111 | Message: Payment of Tk500 for Dr. A was successful. Thank you!
+[2025-07-28 23:42:49] To: 11111111111 | Message: Payment of Tk1500 for Dr. H was successful. Thank you!
+[2025-07-29 00:56:23] To: 12222222222 | Message: Dear aaaaaaaaaa, your appointment with Dr. F on 2025-07-29 is confirmed. Payment of Tk500 received.
+[2025-07-29 01:09:50] To: 11111111111 | Message: Dear aaaaaaaaaaa, your appointment with Dr. E on 2025-07-29 is confirmed. Payment of Tk550 received.
+[2025-07-29 20:33:05] To: 11111111211 | Message: Dear ami, your appointment with Dr. F on 2025-07-30 is confirmed. Payment of Tk500 received.
+[2025-08-23 23:16:33] To: 11111111111 | Message: Dear ami, your appointment with Dr. H on 2025-08-24 is confirmed. Payment of Tk1500 received.
+[2025-08-24 23:30:36] To: 46466775867 | Message: Dear ami, your appointment with Dr. G on 2025-08-07 is confirmed. Payment of Tk1000 received.
+[2025-08-26 00:40:49] To: 46466775869 | Message: Dear aaa, your appointment with Dr. F on 2025-09-06 is confirmed. Payment of Tk500 received.
+[2025-08-26 01:21:53] To: 46466775867 | Message: Dear ami, your appointment with Dr. H on 2025-08-29 is confirmed. Payment of Tk1500 received.
+[2025-08-26 01:23:14] To: 12121212121 | Message: Dear ren, your appointment with Dr. A on 2025-08-30 is confirmed. Payment of Tk500 received.
+[2025-08-26 01:23:32] To: 12121212121 | Message: Dear ren, your appointment with Dr. G on 2025-09-06 is confirmed. Payment of Tk1000 received.
+[2025-08-26 01:40:00] To: 12121212121 | Message: Dear ren, your appointment with Dr. E on 2025-09-05 is confirmed. Payment Tk550 received.
+[2025-08-26 01:53:36] To: 12121212121 | Message: Dear ren, your appointment with Dr. F on 2025-09-05 is confirmed. Payment Tk500 received.
+[2025-08-26 02:10:02] To: 33333333333 | Message: Dear len, your appointment with Dr. H on 2025-09-06 is confirmed. Payment of Tk1500 received.
+[2025-08-26 02:11:39] To: 33333333333 | Message: Dear len, your appointment with Dr. F on 2025-09-05 is confirmed. Payment of Tk500 received.
+[2025-08-26 02:23:28] To: 33333333333 | Message: Dear len, your appointment with Dr. D on 2025-09-03 is confirmed. Payment of Tk600 received.
+[2025-08-26 02:29:45] To: 33333333333 | Message: Dear len, your appointment with Dr. H on 2025-09-03 is confirmed. Payment of Tk1500 received.
+[2025-08-26 02:40:33] To: 33333333333 | Message: Dear len, your appointment with Dr. F on 2025-09-06 is confirmed. Payment of Tk500 received.
+[2025-08-26 02:47:25] To: 33333333333 | Message: Your appointment has been booked successfully!
+[2025-08-26 02:50:11] To: 33333333333 | Message: Your appointment with Dr. Dr. H on 2025-09-09 has been booked successfully!
+[2025-08-26 02:55:17] To: 33333333333 | Message: Your appointment with Dr. Dr. F on 2025-09-06 has been booked successfully!
+[2025-08-26 02:56:42] To: 33333333333 | Message: Your appointment with Dr. Dr. D on 2025-09-06 has been booked successfully!
+[2025-08-26 02:57:34] To: 33333333333 | Message: Your appointment with Dr. Dr. G on 2025-09-05 has been booked successfully!
+[2025-08-27 19:19:11] To: 22222222222 | Message: Your appointment with Dr. Dr. D on 2025-09-06 has been booked successfully!
+[2025-08-27 19:20:27] To: 22222222222 | Message: Your appointment with Dr. Dr. F on 2025-09-05 has been booked successfully!
+[2025-08-27 20:24:10] To: 22222222222 | Message: Your appointment with Dr. G on 2025-09-03 has been confirmed.
+[2025-08-27 20:24:41] To: 22222222222 | Message: Your appointment with Dr. G on 2025-09-03 has been confirmed.
+[2025-08-27 20:28:34] To: 22222222222 | Message: Your appointment with Dr. E on 2025-09-06 has been confirmed.
+[2025-08-27 20:29:38] To: 22222222222 | Message: Your appointment with Dr. G on 2025-09-06 has been confirmed.
+[2025-08-27 20:33:48] To: 33333333333 | Message: Your appointment with Dr. F on 2025-09-05 has been confirmed.
+[2025-08-27 20:34:57] To: 33333333333 | Message: Your appointment with Dr. D on 2025-09-06 has been confirmed.
